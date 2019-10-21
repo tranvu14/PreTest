@@ -1,0 +1,31 @@
+td{
+	border: 1px solid black;
+	margin: 0;
+	padding: auto;
+	width: 5rem;
+	height: 5rem;
+	text-align: center;
+	font-size: 4rem;
+}
+tr{
+	border: 1px solid black;
+}
+body{
+	text-align: center;
+
+}
+table{
+	margin: 0;
+	display: inline-block;
+}
+div{
+	margin: 100px;
+
+}
+#btn{
+	display: none;
+	margin:10px auto;
+}
+#noti{
+	margin:10px auto;
+}

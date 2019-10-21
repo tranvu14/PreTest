@@ -1,0 +1,26 @@
+td{
+	
+	margin: 0;
+	width: 24px;
+	height: 24px;
+	text-align: center;
+	font-size: 1rem;
+	border-collapse: collapse;
+}
+tr{
+	padding: 0;
+	margin: 0;
+	
+  	border-collapse: collapse;
+}
+table{
+	border: 1px solid black;
+  	border-collapse: collapse;
+  	margin: 10px auto;
+}
+.snake{
+	background: black;
+}
+.food{
+	background: red;
+}

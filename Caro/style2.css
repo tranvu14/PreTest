@@ -1,0 +1,21 @@
+td{
+	border: 1px solid black;
+	margin: 0;
+	padding: auto;
+	width: 24px;
+	height: 24px;
+	text-align: center;
+	font-size: 1rem;
+	border-collapse: collapse;
+}
+tr{
+	padding: 0;
+	margin: 0;
+	border: 1px solid black;
+  	border-collapse: collapse;
+}
+table{
+	border: 1px solid black;
+  	border-collapse: collapse;
+  	margin: 10px auto;
+}
